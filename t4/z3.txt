@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title>Завдаваня 1</title>
+		<style>
+			body{
+				background-color:#3252a8;
+				color: #adfffc;
+				font-family: cursive;
+			}
+			h1{
+			font-size: 45px;
+			}
+			li{
+			font-size: 30px;
+			}
+		</style>
+	</head>
+	
+	<body>
+		<h1 align="center">Улюблені мультфільми</h1>
+		
+	</body>
+</html>
